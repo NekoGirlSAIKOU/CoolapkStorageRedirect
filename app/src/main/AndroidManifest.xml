@@ -15,7 +15,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Force cookapk to save pictures to it's private folder" />
+            android:value="Force coolapk to save pictures to it's private folder" />
         <meta-data
             android:name="xposedminversion"
             android:value="82" />
